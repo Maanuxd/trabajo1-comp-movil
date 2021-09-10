@@ -5,8 +5,10 @@
       <map>
         <entry key="..\:/Users/manu_/AndroidStudioProjects/Tarea1/app/src/main/res/layout/activity_2.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/manu_/AndroidStudioProjects/Tarea1/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="app/src/main/res/layout/activity_2.xml" value="0.29483695652173914" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/drawable/seek_bar.xml" value="0.36302083333333335" />
+        <entry key="app/src/main/res/drawable/seek_thumb.xml" value="0.36302083333333335" />
+        <entry key="app/src/main/res/layout/activity_2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
